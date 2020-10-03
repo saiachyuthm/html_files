@@ -1,0 +1,72 @@
+body {
+	background-color: rgb(255, 215, 0);
+	color:blue;
+	font-family: "Lucida Console", Courier, monospace;
+	font-size: large;
+}
+
+table {
+	width: 500px;
+	border-collapse: collapse;
+	table-layout: fixed;
+	margin-left:10%; 
+	margin-top:5%;
+}
+
+td {
+	vertical-align: top;
+	padding: 5px;
+	word-wrap: break-word;
+}
+h1 {
+	color:black;
+	text-align:center;
+	font-size:250%;
+}
+p {
+	font-family: "Times New Roman", Times, serif;
+	color:brown;
+}
+
+
+/* IDs and classes*/
+
+#fullpage {
+	margin: 100px;
+}
+#img {
+	border-radius: 200px;
+	height:150px;
+}
+
+.lb {
+	text-align: right;
+}
+
+.ip {
+	text-align: left;
+}
+
+.fb {
+	text-align: center;
+	vertical-align: middle;
+	color: Gray;
+	font-size: small;
+}
+.ip1 {
+	width: 150px;
+	border-radius: 200px;
+}
+.Button {
+	margin: auto;
+	text-align: center;
+	width: 100px;
+}
+
+.BG{
+	margin-left:-50%;
+	margin-top:5%;
+	background-color: white;
+	border-radius: 20px;
+	padding: 3px;
+}
