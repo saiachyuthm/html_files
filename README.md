@@ -1,2 +1,2 @@
-# html_files
-HTML for simple web pages
+# html ,css and javascript files 
+For simple web pages
